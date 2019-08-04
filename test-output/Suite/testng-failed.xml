@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="firstname" value="mahattam"/>
+    <parameter name="address" value="neerim road"/>
+    <parameter name="mobilenumber" value="09868675490"/>
+    <parameter name="email" value="matty@gmail.com"/>
+    <parameter name="lastname" value="kaur"/>
+    <classes>
+      <class name="scrip2">
+        <methods>
+          <include name="endprogram"/>
+          <include name="Initialise"/>
+          <include name="testcase1"/>
+        </methods>
+      </class> <!-- scrip2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

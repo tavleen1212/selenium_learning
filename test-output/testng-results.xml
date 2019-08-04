@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[addcustomerlink Is Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[done Is Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[mahattam Is entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[tomar Is entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[matty@gmail.com Is entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[neerim Is entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[1234 Is entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[submit Is Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[addcustomerlink Is Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[done Is Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[tavleen Is entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[kaur Is entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[matty@gmail.com Is entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[neerim Is entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[1234 Is entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[submit Is Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[addcustomerlink Is Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[done Is Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[test Is entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[kaur Is entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[matty@gmail.com Is entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[neerim Is entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[vnbnbn Is entered Successfully]]>
+    </line>
+    <line>
+      <![CDATA[submit Is Clicked Successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2019-05-30T05:34:10Z" name="Suite" finished-at="2019-05-30T05:34:22Z" duration-ms="11990">
+    <groups>
+      <group name="scrip2">
+        <method signature="scrip2.testcase1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:scrip2@22fcf7ab]" name="testcase1" class="scrip2"/>
+      </group> <!-- scrip2 -->
+    </groups>
+    <test started-at="2019-05-30T05:34:10Z" name="Test" finished-at="2019-05-30T05:34:22Z" duration-ms="11990">
+      <class name="scrip2">
+        <test-method is-config="true" signature="Initialise()[pri:0, instance:scrip2@22fcf7ab]" started-at="2019-05-30T05:34:07Z" name="Initialise" finished-at="2019-05-30T05:34:10Z" duration-ms="3887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialise -->
+        <test-method signature="testcase1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:scrip2@22fcf7ab]" started-at="2019-05-30T05:34:10Z" name="testcase1" data-provider="customerdetails" finished-at="2019-05-30T05:34:18Z" duration-ms="7341" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mahattam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tomar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[matty@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[neerim]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[addcustomerlink Is Clicked Successfully]]>
+            </line>
+            <line>
+              <![CDATA[done Is Clicked Successfully]]>
+            </line>
+            <line>
+              <![CDATA[mahattam Is entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[tomar Is entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[matty@gmail.com Is entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[neerim Is entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[1234 Is entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[submit Is Clicked Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method signature="testcase1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:scrip2@22fcf7ab]" started-at="2019-05-30T05:34:18Z" name="testcase1" data-provider="customerdetails" finished-at="2019-05-30T05:34:21Z" duration-ms="2820" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tavleen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kaur]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[matty@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[neerim]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[addcustomerlink Is Clicked Successfully]]>
+            </line>
+            <line>
+              <![CDATA[done Is Clicked Successfully]]>
+            </line>
+            <line>
+              <![CDATA[tavleen Is entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[kaur Is entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[matty@gmail.com Is entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[neerim Is entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[1234 Is entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[submit Is Clicked Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method signature="testcase1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:scrip2@22fcf7ab]" started-at="2019-05-30T05:34:21Z" name="testcase1" data-provider="customerdetails" finished-at="2019-05-30T05:34:22Z" duration-ms="1135" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kaur]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[matty@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[neerim]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[vnbnbn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[addcustomerlink Is Clicked Successfully]]>
+            </line>
+            <line>
+              <![CDATA[done Is Clicked Successfully]]>
+            </line>
+            <line>
+              <![CDATA[test Is entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[kaur Is entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[matty@gmail.com Is entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[neerim Is entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[vnbnbn Is entered Successfully]]>
+            </line>
+            <line>
+              <![CDATA[submit Is Clicked Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="endprogram()[pri:0, instance:scrip2@22fcf7ab]" started-at="2019-05-30T05:34:22Z" name="endprogram" finished-at="2019-05-30T05:34:22Z" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endprogram -->
+      </class> <!-- scrip2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

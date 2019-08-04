@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test"> 	
+  	<!-- <parameter name="firstname" value="mahattam"/>
+  	<parameter name="lastname" value="kaur"/>
+  	<parameter name="email" value="matty@gmail.com"></parameter>
+  	<parameter name="address" value="neerim road"></parameter>
+  	<parameter name="mobilenumber" value="09868675490"></parameter> -->
+  	<groups>		
+	   <run>		
+	    <include name="scrip2" />		
+	   </run>		
+  	</groups>
+    <classes>
+      <class name="scrip2" />     
+    </classes>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
